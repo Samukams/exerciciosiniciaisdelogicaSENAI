@@ -1,0 +1,15 @@
+{
+  "name": "projetonv",
+  "version": "1.0.0",
+  "main": "peba.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.3.0"
+  }
+}
